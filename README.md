@@ -23,3 +23,5 @@ Belajar kelas Memulai dasar GIT. (Progres 100%)
 
 **18 Agustus 2023**  
 Start new class (Progres 0%)
+
+   *Belajar 1
