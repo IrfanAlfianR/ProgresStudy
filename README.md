@@ -21,4 +21,11 @@ Belajar kelas Memulai dasar GIT. (Progres 100%)
  * Belajar cara berkontribusi di proyek open source dengan GIT
  * Belajar cara menggunakan GIT pada Visual Studio
 
-**18 
+
+**18 Agustus 2023**  
+Start new class (Progres 0%)
+
+   *Belajar 1
+   *Belajar 2
+   *Belajar 3
+
