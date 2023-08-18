@@ -25,3 +25,4 @@ Belajar kelas Memulai dasar GIT. (Progres 100%)
 Start new class (Progres 0%)
 
    *Belajar 1
+   *Belajar 2
